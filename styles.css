@@ -1,0 +1,62 @@
+
+
+body{background-color: rgb(228, 227, 227);
+    font-family: Arial, Helvetica, sans-serif}
+
+header{
+    text-align: center;
+    background-color: white;
+    margin: 0 auto
+}
+
+.wrapper{
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    
+}
+
+.primer-post{
+    height: 350px; ;
+    width: 400px; ;
+    background:white;
+    margin:0 auto;
+    margin-top: 50px;
+    
+}
+
+.cuadrito{display: flex;}
+
+.primero {
+    height: 20px;
+    width: 120px;
+    font-size: small;
+    font-weight: bold;
+}
+
+.segundo {
+    height: 20px;
+    width: 40px;
+    font-size: small;
+    font-weight: bold;
+    margin-left: 250px;
+}
+
+img{object-fit: cover;
+    height: 100%;
+    width: 100%;
+
+}
+
+.tercero {
+    height: 275px;
+    width: 400px;
+    ;
+}
+
+.cuarto{
+    height: 48px;
+    width: 400px;
+
+}
+
